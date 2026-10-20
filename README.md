@@ -35,7 +35,7 @@ Clone this repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/mxr-analytics.git](https://github.com/munazir666/mxr-analytics.git)
+git clone (https://github.com/munazir666/mxr-analytics.git)
 ```
 # Install dependencies
 ```
