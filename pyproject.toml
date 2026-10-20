@@ -1,0 +1,13 @@
+[project]
+name = "mxr-analytics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "langchain>=1.4.6",
+    "langchain-core>=1.6.12",
+    "langchain-google-genai>=4.4.2",
+    "python-dotenv>=1.2.4",
+    "streamlit>=1.66.0",
+]
